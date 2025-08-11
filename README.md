@@ -1,2 +1,5 @@
-# my-first-repoo
-learning github with devops
+jayalakshmi
+anita
+prameela
+jhansi
+we used canva tool
